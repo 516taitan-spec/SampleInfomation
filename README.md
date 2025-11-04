@@ -1,74 +1,74 @@
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">プライバシーポリシー</font></font>**
+**Privacy Policy**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本プライバシーポリシーは、Taichi kamiya（以下「サービスプロバイダー」といいます）が無料サービスとして開発したモバイルデバイス向けアプリ「sample1」（以下「アプリケーション」といいます）に適用されます。本サービスは「現状有姿」での利用を意図しています。</font></font>
+This privacy policy applies to the sample1 app (hereby referred to as "Application") for mobile devices that was created by Taichi kamiya (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">情報の収集と利用</font></font>**
+**Information Collection and Use**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションは、ダウンロードおよび使用時に情報を収集します。収集される情報には、以下のようなものが含まれます。</font></font>
+The Application collects information when you download and use it. This information may include information such as
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">デバイスのインターネットプロトコルアドレス（例：IPアドレス）</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">あなたがアクセスしたアプリケーションのページ、アクセスした日時、それらのページで費やした時間</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションに費やした時間</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">モバイルデバイスで使用しているオペレーティングシステム</font></font>
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   The operating system you use on your mobile device
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションは、モバイルデバイスの位置情報に関する正確な情報を収集しません。</font></font>
+The Application does not gather precise information about the location of your mobile device.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションはデバイスの位置情報を収集します。これにより、サービスプロバイダーはユーザーのおおよその地理的位置を特定し、以下の方法で利用することができます。</font></font>
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">位置情報サービス: サービス プロバイダーは位置データを活用して、パーソナライズされたコンテンツ、関連性の高い推奨事項、位置情報ベースのサービスなどの機能を提供します。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">分析と改善: 集約され匿名化された位置データは、サービス プロバイダーがユーザーの行動を分析し、傾向を特定し、アプリケーションの全体的なパフォーマンスと機能を向上させるのに役立ちます。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サードパーティのサービス：サービスプロバイダーは、匿名化された位置情報データを定期的に外部サービスに送信する場合があります。これらのサービスは、アプリケーションの機能強化とサービスの最適化に役立ちます。</font></font>
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、重要な情報、必要な通知、マーケティングプロモーションを提供するために、お客様から提供された情報を随時お客様に連絡するために使用することがあります。</font></font>
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">より良い体験を提供するために、本アプリケーションのご利用中に、サービスプロバイダーはお客様に特定の個人情報の提供をお願いする場合があります。サービスプロバイダーが要求する情報は、サービスプロバイダーによって保持され、本プライバシーポリシーに記載されているとおり使用されます。</font></font>
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サードパーティのアクセス</font></font>**
+**Third Party Access**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーがアプリケーションとそのサービスを改善するために、集計され匿名化されたデータのみが定期的に外部サービスに送信されます。サービスプロバイダーは、本プライバシーステートメントに記載されている方法で、お客様の情報を第三者と共有する場合があります。</font></font>
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションは、データの取り扱いについて独自のプライバシーポリシーを有するサードパーティのサービスを利用しています。本アプリケーションが利用するサードパーティサービスプロバイダーのプライバシーポリシーへのリンクは以下をご覧ください。</font></font>
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">団結</font></font>](https://unity3d.com/legal/privacy-policy)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、ユーザー提供情報および自動収集情報を開示する場合があります。</font></font>
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">召喚状や類似の法的手続きに従うなど、法律で義務付けられている場合;</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">権利の保護、お客様の安全または他者の安全の保護、詐欺の調査、または政府の要請への対応のために開示が必要であると誠意を持って判断した場合。</font></font>
-*   <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お客様に代わって業務を行う信頼できるサービス プロバイダーと共有し、当社が開示した情報を独自に使用することはなく、このプライバシー ポリシーに定められた規則を遵守することに同意しています。</font></font>
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">オプトアウト権</font></font>**
+**Opt-Out Rights**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションをアンインストールすることで、アプリケーションによるすべての情報収集を簡単に停止できます。モバイルデバイスに標準装備されているアンインストール手順、またはモバイルアプリケーションマーケットプレイスやネットワーク経由で提供されるアンインストール手順をご利用ください。</font></font>
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">データ保持ポリシー</font></font>**
+**Data Retention Policy**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、お客様が本アプリケーションをご利用になる期間中、およびその後合理的な期間、ユーザー提供データを保持します。本アプリケーションを通じて提供されたユーザー提供データの削除を希望される場合は、516taitan@gmail.com までご連絡ください。サービスプロバイダーは合理的な期間内にご対応いたします。</font></font>
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at 516taitan@gmail.com and they will respond in a reasonable time.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">子供たち</font></font>**
+**Children**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、13 歳未満の子供から故意にデータを収集したり、13 歳未満の子供にマーケティングを行うためにアプリケーションを使用することはありません。</font></font>
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションは13歳未満の方を対象としておりません。サービスプロバイダーは、13歳未満のお子様から個人を特定できる情報を故意に収集することはありません。13歳未満のお子様が個人情報を提供したことがサービスプロバイダーによって判明した場合、サービスプロバイダーは直ちに当該情報をサーバーから削除します。保護者の方で、お子様が当社に個人情報を提供したことに気付いた場合は、サービスプロバイダー（516taitan@gmail.com）までご連絡ください。必要な措置を講じさせていただきます。</font></font>
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (516taitan@gmail.com) so that they will be able to take the necessary actions.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">安全</font></font>**
+**Security**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">サービスプロバイダーは、お客様の情報の機密性保護に細心の注意を払っています。サービスプロバイダーは、処理および保管する情報を保護するために、物理的、電子的、および手続き的な安全対策を講じています。</font></font>
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">変更点</font></font>**
+**Changes**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本プライバシーポリシーは、理由の如何を問わず、随時更新される場合があります。サービスプロバイダーは、プライバシーポリシーの変更について、このページに新しいプライバシーポリシーを更新することにより、お客様に通知します。本プライバシーポリシーの変更について定期的にご確認いただくことをお勧めします。本サービスを継続的にご利用いただくことで、すべての変更に同意したものとみなされます。</font></font>
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">このプライバシーポリシーは2025年11月4日より有効です。</font></font>
+This privacy policy is effective as of 2025-11-04
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">あなたの同意</font></font>**
+**Your Consent**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">本アプリケーションを使用することにより、お客様は、本プライバシーポリシーに現在規定されている内容、および当社により修正された内容に従って、お客様の情報を処理することに同意するものとします。</font></font>
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-**<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">お問い合わせ</font></font>**
+**Contact Us**
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">アプリケーションの使用中にプライバシーに関して質問がある場合、または慣行について質問がある場合は、電子メール（516taitan@gmail.com）でサービスプロバイダーにお問い合わせください。</font></font>
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at 516taitan@gmail.com.
 
 * * *
 
-<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">このプライバシーポリシーページは、</font></font>[<font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">App Privacy Policy Generatorによって生成されました。</font></font>](https://app-privacy-policy-generator.nisrulz.com/)
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
